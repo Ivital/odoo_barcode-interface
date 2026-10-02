@@ -13,7 +13,7 @@ class ResUsers(models.Model):
     # The frontend owns the shape; the server only stores and serves the map so
     # the app can apply a user's starred filter automatically on entry.
     barcode_default_filters = fields.Json(
-        default=dict,
+        default=lambda _self: {},
     )
 
     @property
