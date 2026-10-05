@@ -282,3 +282,13 @@ msgstr "Використання"
 #: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
 msgid "Yes"
 msgstr "Так"
+
+#. module: barcode_stock
+#: model:ir.model.fields,field_description:barcode_stock.field_res_users__barcode_default_filters
+msgid "Barcode Default Filters"
+msgstr "Фільтри штрихкоду за замовчуванням"
+
+#. module: barcode_stock
+#: model:ir.model.fields,field_description:barcode_stock.field_stock_move_line__validated_on_date
+msgid "Validated On Date"
+msgstr "Перевірено на дату"
