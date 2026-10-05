@@ -325,3 +325,1214 @@ msgstr "Коротка інформація"
 #: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
 msgid "Select lot"
 msgstr "Вибрати партію"
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_quant.py:0
+msgid ""
+"A lot/serial number is required for product %(product)s before applying the "
+"inventory adjustment."
+msgstr ""
+"Перед застосуванням коригування інвентаризації для товару %(product)s "
+"потрібна партія/серійний номер."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "AVAILABILITY"
+msgstr "ДОСТУПНІСТЬ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "AVAILABLE LOCATIONS"
+msgstr "ДОСТУПНІ МІСЦЯ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "AVAILABLE PRODUCTS"
+msgstr "ДОСТУПНІ ТОВАРИ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "AVAILABLE USERS"
+msgstr "ДОСТУПНІ КОРИСТУВАЧІ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Add a filter first, then save it as the default."
+msgstr "Спочатку додайте фільтр, а потім збережіть його як типовий."
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid "Add at least one product to transfer."
+msgstr "Додайте хоча б один товар для переміщення."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Add at least one product."
+msgstr "Додайте хоча б один товар."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Add notes..."
+msgstr "Додати примітки..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Adjust filters or scan a picking name to continue."
+msgstr "Змініть фільтри або відскануйте назву переміщення, щоб продовжити."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "All operations completed"
+msgstr "Усі операції завершено"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "All products are available."
+msgstr "Усі товари доступні."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Are you sure you want to cancel reservations?"
+msgstr "Ви впевнені, що хочете скасувати резервування?"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Are you sure you want to check availability?"
+msgstr "Ви впевнені, що хочете перевірити доступність?"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Are you sure you want to delete this movement?"
+msgstr "Ви впевнені, що хочете видалити це переміщення?"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Availability check error: %(error)s"
+msgstr "Помилка перевірки доступності: %(error)s"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Availability check failed."
+msgstr "Перевірка доступності не вдалася."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Availability check successful."
+msgstr "Перевірку доступності успішно пройдено."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Available:"
+msgstr "Доступно:"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Back"
+msgstr "Назад"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Back to Dashboard"
+msgstr "Назад до панелі"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Back to pick"
+msgstr "Назад до комплектування"
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid "Barcode Scanner Internal Transfer"
+msgstr "Внутрішнє переміщення сканером штрихкодів"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/quick_info.esm.js:0
+msgid "Barcode not found."
+msgstr "Штрихкод не знайдено."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+#: code:addons/barcode_stock/static/src/js/screens/quick_info.esm.js:0
+msgid "Barcode not recognized."
+msgstr "Штрихкод не розпізнано."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "CHECK"
+msgstr "ПЕРЕВІРИТИ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Cancel Reservation error: %(error)s"
+msgstr "Помилка скасування резервування: %(error)s"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Cancel Reservation successfully"
+msgstr "Резервування успішно скасовано"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Cancel reservation"
+msgstr "Скасувати резервування"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Changes saved successfully"
+msgstr "Зміни успішно збережено"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Confirm Location"
+msgstr "Підтвердити місце"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Confirm Product"
+msgstr "Підтвердити товар"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Confirm Responsible"
+msgstr "Підтвердити відповідального"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Confirm availability check"
+msgstr "Підтвердити перевірку доступності"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Confirm cancel reservations"
+msgstr "Підтвердити скасування резервувань"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Confirm deletion"
+msgstr "Підтвердити видалення"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Confirm move"
+msgstr "Підтвердити переміщення"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Confirm the quantity and return to the picking queue."
+msgstr "Підтвердьте кількість і поверніться до черги переміщень."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Cost / Sale Price"
+msgstr "Собівартість / Ціна продажу"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Create New Lot"
+msgstr "Створити нову партію"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Create lot & confirm"
+msgstr "Створити партію й підтвердити"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Create the lot first, then confirm the move in one pass."
+msgstr ""
+"Спочатку створіть партію, потім підтвердьте переміщення одним проходом."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Current Stock ("
+msgstr "Поточний запас ("
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Custom date"
+msgstr "Власна дата"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "DESTINATION LOCATION"
+msgstr "МІСЦЕ ПРИЗНАЧЕННЯ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "DETAILED OPERATIONS"
+msgstr "ДЕТАЛЬНІ ОПЕРАЦІЇ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Default filter cleared for %(operation)s."
+msgstr "Фільтр за замовчуванням очищено для %(operation)s."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Default filter for %(operation)s — tap to remove."
+msgstr "Типовий фільтр для %(operation)s — натисніть, щоб видалити."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Delete picture"
+msgstr "Видалити зображення"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Delivery Order"
+msgstr "Замовлення на доставку"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Demand:"
+msgstr "Потреба:"
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid "Destination location is required."
+msgstr "Потрібне місце призначення."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Destination location selected: %(location)s"
+msgstr "Вибрано місце призначення: %(location)s"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Done lines"
+msgstr "Виконані рядки"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Done:"
+msgstr "Готово:"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/quick_info.esm.js:0
+msgid "Enter a barcode."
+msgstr "Введіть штрихкод."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Enter barcode"
+msgstr "Введіть штрихкод"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Enter lot/serial"
+msgstr "Введіть партію/серійний номер"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Error loading picking: %(error)s"
+msgstr "Помилка завантаження комплектування: %(error)s"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Error while saving"
+msgstr "Помилка під час збереження"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Filter saved as the default for %(operation)s."
+msgstr "Фільтр збережено як типовий для %(operation)s."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Internal Transfers"
+msgstr "Внутрішні переміщення"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Internal transfer %(name)s validated successfully."
+msgstr "Внутрішнє переміщення %(name)s успішно підтверджено."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Internal transfer failed."
+msgstr "Внутрішнє переміщення не вдалося."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Invalid quantity"
+msgstr "Недійсна кількість"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Loading locations..."
+msgstr "Завантаження місць..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Loading move..."
+msgstr "Завантаження переміщення..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Loading products..."
+msgstr "Завантаження товарів..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Loading queue..."
+msgstr "Завантаження черги..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Loading users..."
+msgstr "Завантаження користувачів..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Lot %(lot)s has passed its expiration date."
+msgstr "Термін придатності партії %(lot)s минув."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Lot %(lot)s is not available for this product."
+msgstr "Лот %(lot)s недоступний для цього товару."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Lot %(lot)s is not available here."
+msgstr "Партія %(lot)s тут недоступна."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Lot %(lot)s matched and ready to confirm."
+msgstr "Партію %(lot)s знайдено й підготовлено до підтвердження."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/quick_info.esm.js:0
+msgid "Lot %(lot)s not found for this product."
+msgstr "Партію %(lot)s не знайдено для цього товару."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Lot %(lot)s ready to be registered."
+msgstr "Партія %(lot)s готова до реєстрації."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Lot expired"
+msgstr "Партія прострочена"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Lot name required"
+msgstr "Потрібна назва партії"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Lot number"
+msgstr "Номер партії"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Lot tracked"
+msgstr "Партія відстежується"
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid "Lot/Serial Number is required for product %(name)s."
+msgstr "Для товару %(name)s потрібна партія/серійний номер."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Lots can only be created in receptions"
+msgstr "Партії можна створювати лише під час приймання"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Manual Barcode"
+msgstr "Штрихкод вручну"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Move Operation"
+msgstr "Операція переміщення"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Move stock between locations"
+msgstr "Перемістити запас між місцями"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "No confirmed scans yet"
+msgstr "Ще немає підтверджених сканувань"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "No customer"
+msgstr "Без клієнта"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "No expiration date"
+msgstr "Немає дати закінчення"
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid ""
+"No internal transfer operation type is configured. Please set one up before "
+"using barcode transfers."
+msgstr ""
+"Тип операції внутрішнього переміщення не налаштовано. Налаштуйте його перед "
+"використанням штрихкодових переміщень."
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_quant.py:0
+msgid "No inventory lines to apply."
+msgstr "Немає рядків інвентаризації для застосування."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/location_selector_screen.esm.js:0
+msgid "No location matches “%(code)s”."
+msgstr "Жодне місце не відповідає «%(code)s»."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "No locations found."
+msgstr "Місць не знайдено."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "No operation found for “%(code)s”."
+msgstr "Операцію для «%(code)s» не знайдено."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "No pending pickings"
+msgstr "Немає комплектувань в очікуванні"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/product_selector_screen.esm.js:0
+msgid "No product matches “%(code)s”."
+msgstr "Жоден товар не відповідає «%(code)s»."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "No products found."
+msgstr "Товарів не знайдено."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "No schedule"
+msgstr "Без розкладу"
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid ""
+"No stock is available in the origin location for the selected products."
+msgstr "У вихідному місці немає доступного запасу для вибраних товарів."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "No stock on hand for this lot"
+msgstr "Для цієї партії немає запасу"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "No time"
+msgstr "Немає часу"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "No tracking"
+msgstr "Без відстеження"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "No users found."
+msgstr "Користувачів не знайдено."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "ORIGIN LOCATION"
+msgstr "ПОЧАТКОВЕ МІСЦЕ"
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid "One of the selected products no longer exists."
+msgstr "Один із вибраних товарів більше не існує."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Operation opened from scan."
+msgstr "Операцію відкрито скануванням."
+
+#. module: barcode_stock
+#. odoo-javascript
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Origin and destination locations must be different."
+msgstr "Початкове й кінцеве місця мають відрізнятися."
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid "Origin location is required."
+msgstr "Потрібне початкове місце."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Origin location selected: %(location)s"
+msgstr "Вибрано початкове місце: %(location)s"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "PARTNER"
+msgstr "ПАРТНЕР"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Pending moves"
+msgstr "Переміщення в очікуванні"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Pick Existing Lot"
+msgstr "Вибрати існуючу партію"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Pick and ship items"
+msgstr "Комплектувати й відвантажити"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Picking Operations"
+msgstr "Операції комплектування"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Picking attachment"
+msgstr "Вкладення комплектування"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Picking opened from scan."
+msgstr "Комплектування відкрито скануванням."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Picking task"
+msgstr "Завдання комплектування"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Please add at least one product to validate."
+msgstr "Додайте щонайменше один товар для перевірки."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Please select a destination location."
+msgstr "Будь ласка, виберіть місце призначення."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Please select a lot"
+msgstr "Виберіть партію"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Please select a lot/serial number for %(product)s."
+msgstr "Виберіть партію/серійний номер для %(product)s."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Please select an origin location."
+msgstr "Виберіть початкове місце."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Preparing scanner-first work queue..."
+msgstr "Підготовка черги робіт із пріоритетом сканера..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Process products from the To Do tab to build the done log here."
+msgstr ""
+"Обробляйте товари на вкладці «До виконання», щоб сформувати тут журнал "
+"виконаного."
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid ""
+"Product %(name)s is tracked by serial number and must be transferred one "
+"unit at a time."
+msgstr ""
+"Товар %(name)s відстежується за серійним номером і має переміщуватися по "
+"одній одиниці."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Product matched and ready to confirm."
+msgstr "Товар зіставлено й готово до підтвердження."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Product not found"
+msgstr "Товар не знайдено"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Product not found."
+msgstr "Товар не знайдено."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Product not reserved"
+msgstr "Товар не зарезервовано"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Product updated"
+msgstr "Товар оновлено"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Qty unavailable"
+msgstr "Кількість недоступна"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Quantity incremented to %(qty)s."
+msgstr "Кількість збільшено до %(qty)s."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Quantity must be greater than zero for %(product)s."
+msgstr "Кількість для %(product)s має бути більшою за нуль."
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid "Quantity must be greater than zero for product %(name)s."
+msgstr "Кількість для товару %(name)s має бути більшою за нуль."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Quantity stepper"
+msgstr "Регулятор кількості"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Quantity to pick"
+msgstr "Кількість для комплектування"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Queue ready"
+msgstr "Черга готова"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Quick Information"
+msgstr "Швидка інформація"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Quick filters"
+msgstr "Швидкі фільтри"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "RESPONSIBLE"
+msgstr "ВІДПОВІДАЛЬНИЙ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Reception task"
+msgstr "Завдання приймання"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Register a new lot before assigning the picked quantity."
+msgstr "Зареєструйте нову партію перед призначенням відібраної кількості."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Rem:"
+msgstr "Зал.:"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Remaining quantity applied"
+msgstr "Застосовано залишкову кількість"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Reserved:"
+msgstr "Зарезервовано:"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Responsible set to %(name)s"
+msgstr "Відповідального встановлено: %(name)s"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "SAVE"
+msgstr "ЗБЕРЕГТИ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Save this filter as the default for %(operation)s."
+msgstr "Зберегти цей фільтр як типовий для %(operation)s."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Scan a product or location barcode"
+msgstr "Скануйте штрихкод товару або місця"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Scan narrowed the queue."
+msgstr "Сканування звузило чергу."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Scan or search pickings..."
+msgstr "Скануйте або шукайте комплектування..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Scan target"
+msgstr "Сканувати ціль"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Scanned Lot / Serial"
+msgstr "Відсканована партія / серійний номер"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Scanned barcode is not a product of this operation."
+msgstr "Відсканований штрихкод не є товаром цієї операції."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Scanned barcode is not part of the current picking."
+msgstr "Відсканований штрихкод не належить до поточного комплектування."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid ""
+"Scanned product doesn't match this move (%(expected)s expected, got %(got)s)"
+msgstr ""
+"Відсканований товар не відповідає цьому переміщенню (очікується "
+"%(expected)s, отримано %(got)s)"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Scanned product was not found."
+msgstr "Відсканований товар не знайдено."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Scanner ready for this picking."
+msgstr "Сканер готовий для цього комплектування."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Search Barcode"
+msgstr "Пошук штрихкоду"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Search by name or SKU..."
+msgstr "Пошук за назвою або SKU..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Search by name or login..."
+msgstr "Пошук за ім’ям або логіном..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/quick_info.esm.js:0
+msgid "Search failed."
+msgstr "Помилка пошуку."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Search location..."
+msgstr "Пошук місця..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Select Location"
+msgstr "Виберіть місце"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Select Product"
+msgstr "Виберіть товар"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Select Responsible"
+msgstr "Виберіть відповідального"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Select date"
+msgstr "Виберіть дату"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Select destination"
+msgstr "Виберіть місце призначення"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Select destination location"
+msgstr "Виберіть місце призначення"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Select origin"
+msgstr "Виберіть походження"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/internal_transfer_screen.esm.js:0
+msgid "Select origin location"
+msgstr "Виберіть початкове місце"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Select responsible"
+msgstr "Виберіть відповідального"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Select source"
+msgstr "Виберіть джерело"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Select the correct lot or serial and confirm the quantity."
+msgstr "Виберіть правильну партію або серійний номер і підтвердьте кількість."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Serial already exists for this product."
+msgstr "Серійний номер уже існує для цього товару."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Serial number"
+msgstr "Серійний номер"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Serial tracked"
+msgstr "Відстежується серійним номером"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Serial-tracked products can only process one unit."
+msgstr "Для товарів із серійним обліком можна обробляти лише одну одиницю."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Serial-tracked products must have a quantity of 1."
+msgstr "Товари із серійним обліком повинні мати кількість 1."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Set default"
+msgstr "Встановити типовим"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Single picking matched the scan."
+msgstr "Скануванню відповідає одне комплектування."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Stock by Location ("
+msgstr "Запас за місцем ("
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "TASK STATUS"
+msgstr "СТАТУС ЗАВДАННЯ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "TO DO"
+msgstr "ДО ВИКОНАННЯ"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Tap to remove this confirmation"
+msgstr "Натисніть, щоб прибрати це підтвердження"
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_move_line.py:0
+msgid ""
+"The quantity for product %(product)s (tracked by serial) cannot exceed 1."
+msgstr ""
+"Кількість для товару %(product)s (серійний облік) не може перевищувати 1."
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid "The selected Lot/Serial Number is invalid for product %(name)s."
+msgstr "Вибрана партія/серійний номер недійсна для товару %(name)s."
+
+#. module: barcode_stock
+#. odoo-python
+#: code:addons/barcode_stock/models/stock_picking.py:0
+msgid "The selected locations are not valid anymore."
+msgstr "Вибрані місця більше недійсні."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "There are no pending products for this picking."
+msgstr "Для цього переміщення немає товарів, що очікують обробки."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "This move has no quantity to process."
+msgstr "У цьому переміщенні немає кількості для обробки."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "This product is not reserved for this picking."
+msgstr "Цей товар не зарезервований для цього переміщення."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Tracking / Type"
+msgstr "Відстеження / Тип"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
+msgid "Use an existing lot or serial already available for this product."
+msgstr ""
+"Використайте наявну партію або серійний номер, уже доступний для цього "
+"товару."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Validate incoming goods"
+msgstr "Підтвердити вхідні товари"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Validation failed: %(error)s"
+msgstr "Перевірка не пройдена: %(error)s"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Visible"
+msgstr "Видимий"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/tiles/stock_menu_tiles.esm.js:0
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Warehouse Operations"
+msgstr "Складські операції"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/components/picking_move_card.esm.js:0
+msgid "pending"
+msgstr "очікує"
