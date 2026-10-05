@@ -174,3 +174,111 @@ msgstr "Зробити"
 #: code:addons/barcode_stock/static/src/js/screens/move_wizard_screen.esm.js:0
 msgid "Tracking"
 msgstr "Відстеження"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Add a line"
+msgstr "Додати рядок"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Delivery Orders"
+msgstr "Замовлення на доставку"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Destination location"
+msgstr "Місце призначення"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Group by"
+msgstr "Групувати за"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Information"
+msgstr "Інформація"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "No"
+msgstr "Ні"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Other"
+msgstr "Інше"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Ready"
+msgstr "Готово"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+msgid "Receipt"
+msgstr "Надходження"
+
+#. module: barcode_stock
+#: model:ir.model.fields,field_description:barcode_stock.field_stock_move__qty_remaining
+msgid "Remaining Quantity"
+msgstr "Залишкова кількість"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Scheduled Date"
+msgstr "Запланована дата"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Source location"
+msgstr "Початкове місце"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Today"
+msgstr "Сьогодні"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Tomorrow"
+msgstr "Завтра"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Unknown"
+msgstr "Невідомо"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Urgent"
+msgstr "Терміново"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Usage"
+msgstr "Використання"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "Yes"
+msgstr "Так"
