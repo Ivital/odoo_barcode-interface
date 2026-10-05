@@ -292,3 +292,36 @@ msgstr "Фільтри штрихкоду за замовчуванням"
 #: model:ir.model.fields,field_description:barcode_stock.field_stock_move_line__validated_on_date
 msgid "Validated On Date"
 msgstr "Перевірено на дату"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_screen.esm.js:0
+#: code:addons/barcode_stock/static/src/js/tiles/stock_menu_tiles.esm.js:0
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Internal Transfer"
+msgstr "Внутрішнє переміщення"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Loading..."
+msgstr "Завантаження..."
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/screens/picking_list_screen.esm.js:0
+msgid "No date"
+msgstr "Без дати"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/js/tiles/stock_menu_tiles.esm.js:0
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Quick Info"
+msgstr "Коротка інформація"
+
+#. module: barcode_stock
+#. odoo-javascript
+#: code:addons/barcode_stock/static/src/xml/barcode_stock_templates.xml:0
+msgid "Select lot"
+msgstr "Вибрати партію"
